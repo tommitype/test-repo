@@ -1,0 +1,3 @@
+[submodule "pippopelo"]
+	path = pippopelo
+	url = https://github.com/tommitype/pippopelo.git
